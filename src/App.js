@@ -1,5 +1,4 @@
 import Navbar from "./components/Navbar.js";
-import "./App.css";
 import About from "./components/About.js";
 import TextArea from "./components/TextArea.js";
 import React, { useState } from "react";
